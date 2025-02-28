@@ -14,7 +14,7 @@ Asegúrate de tener instalado Python 3 en tu sistema.
 ## Instalación y Ejecución
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tuusuario/calculadora-gui.git
+   git clone https://github.com/CAMCDI/calculadora-con-interfaz-gr-fica.git
    ```
 2. Navega al directorio del proyecto:
    ```sh
